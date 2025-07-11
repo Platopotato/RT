@@ -14,7 +14,9 @@
     "isolatedModules": true,
     "noEmit": false,
     "sourceMap": true,
-    "declaration": false,
+
+    "declaration": true,              // ✅ Generate type declarations
+    "composite": true,                // ✅ Required for project references
     "allowSyntheticDefaultImports": true,
     "baseUrl": ".",
     "paths": {
