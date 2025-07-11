@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- Hexagon background -->
+  <polygon 
+    points="50,5 90,27.5 90,72.5 50,95 10,72.5 10,27.5" 
+    fill="#0f172a" 
+    stroke="#d97706" 
+    stroke-width="5"
+  />
+  
+  <!-- Stylized "R" for Radix -->
+  <path 
+    d="M35,30 L35,70 M35,30 L65,30 C70,30 75,35 75,40 C75,50 65,50 60,50 L35,50 M60,50 L70,70" 
+    stroke="#d97706" 
+    stroke-width="8" 
+    stroke-linecap="round" 
+    stroke-linejoin="round"
+    fill="none"
+  />
+  
+  <!-- Small radiation symbol -->
+  <circle cx="50" cy="75" r="8" fill="#d97706" />
+  <path 
+    d="M50,67 L50,60 M43,71 L38,65 M57,71 L62,65" 
+    stroke="#0f172a" 
+    stroke-width="3" 
+    stroke-linecap="round"
+  />
+</svg>

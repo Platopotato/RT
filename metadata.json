@@ -1,0 +1,6 @@
+{
+  "name": "Radix Tribes V12",
+  "description": "A post-apocalyptic turn-based strategy game where players lead tribes of survivors in a harsh wasteland, competing for resources, territory, and survival. This is a frontend implementation of the core game mechanics.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
